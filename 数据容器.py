@@ -6,3 +6,5 @@ result2 = my_str[5:10][::-1]  # 先切片取出，再倒序
 print(result2)
 
 result3 = my_str.split("， ")[1].replace("来", "")[::-1]  # split分隔"， "，replace替换"来"为""(空）",最后倒序
+
+#comment test
