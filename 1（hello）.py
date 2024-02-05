@@ -8,4 +8,3 @@ sdoaghvinjv
 advfodijnj
 vdfaoijnreag
 agofuhlkam""")
-print( "HELLO!")
